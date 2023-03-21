@@ -1,4 +1,7 @@
 ### 卍卍卍
+
+<img align="right" alt="used" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laochen56&theme=dark&layout=compact" />
+
 - ㏇ 一个前端工作者 ...
 - 💬 一个有幻想的农民工 ...
 - 🌱 全栈学习中...
@@ -7,6 +10,11 @@
 - ⚡ 珍惜时间让生命更有价值...
 
 > 此世今生，且行且珍惜...
+
+<br/>
+<br/>
+<br/>
+<img align="right" alt="sd" width="50%" src="https://github-readme-stats.vercel.app/api?username=laochen56&show_icons=true&theme=dark&count_private=true" />
 
 
 |个人|时间|
@@ -18,12 +26,7 @@
 |[仿windows](http://www.weblearn.fit/AAA/Windows/)|2022-07-12|
 |[...](http://www.weblearn.fit/show/)|...|
 
-![GithubStats](https://github-readme-stats.vercel.app/api?username=laochen56&show_icons=true&theme=dark&count_private=true)
-
-### 语言
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laochen56&theme=dark&layout=compact)
-
+### 编程语言
 <!--START_SECTION:waka-->
 ```text
 html/Css       ██████████████████████░░░░  80.55 % 
